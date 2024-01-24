@@ -4,7 +4,8 @@ import Navbar from "../components/Navbar";
 function About() {
   return (
     <div style={{ textAlign: "center" }}>
-      <Navbar /> About
+      <Navbar /> 
+      <h1>About</h1>
     </div>
   );
 }

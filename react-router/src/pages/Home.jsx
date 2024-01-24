@@ -6,6 +6,7 @@ function Home() {
   return (
     <div style={{ textAlign: "center" }}>
       <Navbar />
+      <h1>Home</h1>
     </div>
   );
 }
